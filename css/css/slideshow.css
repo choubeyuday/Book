@@ -1,0 +1,64 @@
+button.carousel-control-prev.btn.btn-primary {
+  height: 300px;
+  width: 100px;
+  margin: 300px 323px;
+  background-color: black;
+}
+
+button.carousel-control-next.btn.btn-info {
+  height: 300px;
+  width: 100px;
+  margin: 300px 281px;
+  background-color: black;
+}
+
+.btn {
+  position: absolute;
+  background-color: black;
+}
+.btn:hover {
+  background-color: black;
+}
+
+@media screen and (max-width: 1024px) {
+  button.carousel-control-next.btn.btn-info {
+    height: 50px;
+    width: 64px;
+    background-color: rgb(49, 102, 218);
+    margin: 573px 42px;
+  }
+
+  button.carousel-control-prev.btn.btn-primary {
+    margin: 573px 47px;
+    height: 50px;
+    width: 64px;
+    background-color: rgb(49, 102, 218);
+  }
+}
+
+@media screen and (min-width: 321px) and (max-width: 630px) {
+  button.carousel-control-next.btn.btn-info {
+    margin: 713px 98px;
+    height: 34px;
+  }
+
+  button.carousel-control-prev.btn.btn-primary {
+    margin: 713px 98px;
+    height: 34px;
+  }
+}
+
+/* @media screen and (max-width: 1440) {
+  button.carousel-control-next.btn.btn-info {
+    height: 300px;
+    width: 100px;
+    margin: 293px 323px;
+    background-color: black;
+  }
+  button.carousel-control-prev.btn.btn-primary {
+    height: 300px;
+    width: 100px;
+    margin: 300px 324px;
+    background-color: black;
+  }
+} */
