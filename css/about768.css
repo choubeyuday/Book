@@ -52,7 +52,7 @@ button.btn {
 @media screen and (min-width: 321px) and (max-width: 425px) {
   body {
     background: rgb(2, 0, 36);
-    background: radial-gradient(
+/*     background: radial-gradient(
       circle,
       rgba(2, 0, 36, 1) 0%,
       rgba(51, 34, 51, 0.9080882352941176) 19%,
@@ -62,7 +62,7 @@ button.btn {
       rgba(32, 32, 32, 1) 100%,
       rgba(118, 14, 56, 0.9052871148459384) 100%,
       rgba(0, 0, 0, 0.5971638655462185) 100%
-    );
+    ); */
   }
   button.btn {
     margin-left: 564px;
@@ -84,6 +84,7 @@ button.btn {
   }
   button.btn {
     margin-left: 0px;
+    margin-top:67px
   }
   .ab-detl-container {
     width: 320px;
