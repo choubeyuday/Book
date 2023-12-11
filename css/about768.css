@@ -91,6 +91,18 @@ button.btn {
   .ab-text {
     width: 310px;
   }
+  .geeks {
+    /* width: 20%; */
+    top: -17px;
+    position: absolute;
+    /* left: 45%; */
+    /* border-bottom: 5px solid rgb(214, 58, 58); */
+    overflow: hidden;
+    animation: animate 2s linear forwards;
+}
+  .geeks h1{
+    font-size:34px
+  }
  
 }
 
