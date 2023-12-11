@@ -3074,3 +3074,99 @@ li a span{
 i.fa-solid.fa-user {
   color: #ff5151;
 }
+
+/* PODCAST CSS */
+
+body {
+  margin: 0;
+}
+
+.header {
+  background-color: #1b3131;
+  margin: -14px auto;
+}
+
+header .container {
+  padding: 1px 50px;
+}
+
+
+button.btn {
+  margin-left: 85%;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  background: #2dbfff;
+
+}
+
+a {
+  text-decoration: none;
+  color: rgb(222, 212, 212);
+  font-size: 21px;
+  font-weight: bolder;
+}
+
+.ab-text {
+  width: 48%;
+}
+
+.text-container {
+  padding: 10px;
+}
+
+.text-container p {
+  text-align: justify;
+  font-family: sans-serif;
+  color: mediumorchid;
+  line-height: 22px;
+  word-spacing: 4px;
+}
+
+body {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(94, 11, 52, 0.8184523809523809) 57%, rgba(32, 32, 32, 1) 100%, rgba(118, 14, 56, 0.9052871148459384) 100%, rgba(0, 0, 0, 0.5971638655462185) 100%, rgba(0, 212, 255, 1) 100%);
+}
+
+.ab-detl-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-bottom: 6px solid;
+  width: 50%;
+  margin: 29px auto;
+  box-shadow: 1px 10px 52px -12px;
+  border-radius: 10px;
+  background: #000000a1;
+}
+
+img.img-spotify {
+  width: 260px;
+}
+
+.pod-1 {
+  margin: 10px;
+}
+
+@media screen and (min-width:280px) and (max-width:768px) {
+  ul li span {
+      font-size: 14px;
+  }
+
+  li a {
+      font-size: 14px;
+  }
+
+  .fa-regular,
+  .far {
+      font-size: 18px;
+  }
+
+  .ab-detl-container {
+      width: 320px;
+  }
+
+
+}
