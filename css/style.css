@@ -57,7 +57,7 @@ header .container {
 }
 
 .box {
-  /* background-image: url(/img/cover-3.jpg); */
+  background-image: url(/img/cover-3.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
