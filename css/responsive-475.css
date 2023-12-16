@@ -1,6 +1,6 @@
 /* ========== For MObile And TAblet view ========= */
 
-@media screen and (min-width: 321px) and (max-width: 768px) {
+@media screen and (min-width: 361px) and (max-width: 768px) {
   .box img {
     height: 556px;
     width: 392px;
