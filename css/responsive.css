@@ -18,6 +18,9 @@
     margin: 0;
     padding: 0;
   }
+  .header-container{
+    margin:10px;
+  }
 
   .carousel-inner {
     position: relative;
