@@ -57,7 +57,7 @@ header .container {
 }
 
 .box {
-  background-image: url(/img/cover-3.jpg);
+  background-image: url(../img/cover-3.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -86,7 +86,7 @@ header .container {
 /* ======== Second slide ====== */
 
 .box-2 {
-  background-image: url(/img/index-page.jpeg);
+  background-image: url(../img/index-page.jpeg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -97,7 +97,7 @@ header .container {
 }
 
 .box-3 {
-  background-image: url(/img/color-2.webp);
+  background-image: url(../img/color-2.webp);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -108,7 +108,7 @@ header .container {
 }
 
 .box-4 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -119,7 +119,7 @@ header .container {
 }
 
 .box-5 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -130,7 +130,7 @@ header .container {
 }
 
 .box-6 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -141,7 +141,7 @@ header .container {
 }
 
 .box-7 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -152,7 +152,7 @@ header .container {
 }
 
 .box-8 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -163,7 +163,7 @@ header .container {
 }
 
 .box-9 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -183,7 +183,7 @@ header .container {
 .box-16,
 .box-17,
 .box-18 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -764,7 +764,7 @@ header .container {
 .box-24,
 .box-25,
 .box-26 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -1034,7 +1034,7 @@ header .container {
 .box-31,
 .box-32,
 .box-33 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -1308,7 +1308,7 @@ header .container {
 .box-37,
 .box-38,
 .box-39 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
@@ -1576,7 +1576,7 @@ header .container {
 .box-98,
 .box-99,
 .box-100 {
-  background-image: url(/img/blank-page.jpg);
+  background-image: url(../img/blank-page.jpg);
   background-repeat: no-repeat;
   height: 600px;
   width: 578px;
