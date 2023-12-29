@@ -63,6 +63,7 @@ header .container {
   width: 578px;
   text-align: center;
   margin: 20px auto;
+  background:white;
 }
 
 .top {
@@ -92,6 +93,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-3 {
@@ -102,6 +104,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-4 {
@@ -112,6 +115,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-5 {
@@ -122,6 +126,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-6 {
@@ -132,6 +137,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-7 {
@@ -142,6 +148,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-8 {
@@ -152,6 +159,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-9 {
@@ -162,6 +170,8 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+
+      background: white;
 }
 
 .box-10,
@@ -180,6 +190,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-2 p {
@@ -760,6 +771,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-19 .top h1 {
@@ -1029,6 +1041,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .box-27 .top h1 {
@@ -1302,6 +1315,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .line-37 h5 {
@@ -1569,6 +1583,7 @@ header .container {
   text-align: center;
   margin: 20px auto;
   border: 2px double lightgrey;
+      background: white;
 }
 
 .line-43 h5 {
